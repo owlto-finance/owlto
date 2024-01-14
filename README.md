@@ -1,2 +1,6 @@
-# owlto
-owlto: an cross chain bridge
+# maker
+owlto maker node
+
+# BUILD
+
+sh build.sh
